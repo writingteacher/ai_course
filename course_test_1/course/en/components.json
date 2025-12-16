@@ -308,5 +308,36 @@
       }
     },
     "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p><meta></p><h4 style=\"line-height:1.38;margin-bottom:6pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>The True Nature of Generative AI</strong></span></b></span></h4><p style=\"line-height:1.38;margin-bottom:6pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>When you interact with a system like ChatGPT, you are using a </strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Large Language Model (LLM)</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>. It has two simple, yet powerful, jobs:</strong></span></b></span></p><ol style=\"margin-bottom:0;margin-top:0;padding-inline-start:48px;\"><li style=\"background-color:transparent;color:#1f1f1f;font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;list-style-type:decimal;text-decoration:none;vertical-align:baseline;white-space:pre;\"><p style=\"line-height:1.38;margin-bottom:0pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Read and Understand Context:</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> It analyzes all the words you give it (the </strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>prompt</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>) to understand the topic, tone, and format you need.</strong></span></b></span></p></li><li style=\"background-color:transparent;color:#1f1f1f;font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;list-style-type:decimal;text-decoration:none;vertical-align:baseline;white-space:pre;\"><p style=\"line-height:1.38;margin-bottom:18pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Predict the Next Word:</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> Based on the trillions of data patterns it learned during training, the LLM calculates the single most statistically probable word that should come next, then the next word, and so on.</strong></span></b></span></p></li></ol><p style=\"line-height:1.38;margin-bottom:12pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>LLMs are powerful text-based probability calculators.</strong></span></b></span></p><h4 style=\"line-height:1.38;margin-bottom:6pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Analogy 1: The World's Best Autocomplete</strong></span></b></span></h4><p><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><i><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Imagine the autocomplete feature on your phone, but powered by nearly the entire internet.</strong></span></i><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> If you type, \"The lawyer argued that the contract was...\" the LLM makes the most informed, statistical guess for the next word (e.g., \"invalid\" or \"breached\") across vast, nuanced topics.</strong></span></b></span></p>",
+    "_ariaLevel": 0,
+    "_id": "694137de42cf7909dc8c2790",
+    "_parentId": "6941374a42cf7909dc8c278f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]
