@@ -1,0 +1,343 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "What is AI, Really?",
+    "displayTitle": "What is AI, Really?",
+    "body": "<p><meta></p><h4 style=\"line-height:1.38;margin-bottom:6pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>AI: The Simple Definition</strong></span></b></span></h4><p>Artificial Intelligence (AI) refers to computer systems designed to <strong>mimic human intelligence</strong> to perform specific tasks. Think of AI as an advanced tool that can see patterns, make decisions, or create content based on the data it's been trained on.</p><p><strong>Key Point:</strong> Today, we exclusively use <strong>Narrow AI</strong>, meaning the system is only intelligent within a highly focused domain.</p><ul><li><strong>Narrow AI (Current):</strong> This is highly specific AI designed to perform a single, focused task.<ul><li><strong>Relatable Examples:</strong> AI software that reviews thousands of legal documents to find every instance of a specific contract clause, or an advertising platform that automatically adjusts bidding strategy.</li></ul></li><li><strong>General AI (Hypothetical):</strong> This would be an AI that can understand, learn, and apply its intelligence to solve any problem, just like a human being.</li></ul>",
+    "_ariaLevel": 0,
+    "_id": "6940011ae2905e45549c89f9",
+    "_parentId": "69400033e2905e45549c89f8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>The key difference between these technologies is the ability to <strong>learn and adapt</strong>:</p><ul><li><strong>Traditional Software</strong> follows <strong>explicit rules</strong> written by a programmer (the rules are fixed).<ul><li><i>Example:</i> A simple quiz application that scores based on pre-programmed correct answers.</li></ul></li><li><strong>Automation</strong> performs repetitive, defined steps <strong>without learning</strong> (the steps are predictable).<ul><li><i>Example:</i> A mail-merge tool that automatically fills in a customer's name and company in an email template.</li></ul></li><li><strong>AI</strong> learns from <strong>data and feedback</strong> to improve its own rules and performance over time (the rules are adaptive).<ul><li><i>Example:</i> A system that learns your writing style and suggests structural improvements or alternative phrasing.</li></ul></li></ul>",
+    "_ariaLevel": 0,
+    "_id": "6940032ce2905e45549c8a01",
+    "_parentId": "69400282e2905e45549c89fe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>To function, AI systems need two things: <strong>data</strong> and a <strong>model</strong>. The core mechanism is <strong>Pattern Recognition</strong>.</p><h4><strong>Data is the Fuel</strong></h4><p>AI learning starts with massive amounts of data—this is the <strong>training set</strong>. For example, a system trained to assist a teacher is fed thousands of previously graded exams and essays.</p><h4><strong>Pattern Recognition: The Core Mechanism</strong></h4><ol><li><strong>Prediction:</strong> Based on the patterns it learned, the AI model calculates the most statistically probable or appropriate output (e.g., suggesting a score, drafting a summary).</li><li><strong>Feedback &amp; Refinement:</strong> Humans or the system itself evaluate the output. If the prediction was wrong, the system subtly adjusts its internal settings to make a better prediction next time. This process is called <strong>iteration</strong>.</li></ol>",
+    "_ariaLevel": 0,
+    "_id": "69400367e2905e45549c8a03",
+    "_parentId": "69400363e2905e45549c8a02",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Lawyer: E-Discovery/Document Review",
+    "displayTitle": "Lawyer: E-Discovery/Document Review",
+    "body": "<p>The AI is trained on thousands of past litigation documents to recognize <strong>patterns</strong> associated with <i>relevance</i> (e.g., all emails referencing \"unauthorized payment\" or \"confidential\"). It quickly flags millions of documents for human review.</p>",
+    "_ariaLevel": 0,
+    "_id": "694003a0e2905e45549c8a04",
+    "_parentId": "694002b6e2905e45549c8a00",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>The AI is trained on rubrics and past student essays to recognize <strong>patterns</strong> in grammar, structure, and style. It provides instantaneous feedback on a draft's fluency and coherence, freeing the teacher to focus on content and critical thinking.</p>",
+    "_ariaLevel": 0,
+    "_id": "694003f2e2905e45549c8a06",
+    "_parentId": "694003d5e2905e45549c8a05",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>The AI uses real-time user behavior data (clicks, purchases, demographics) to recognize <strong>patterns</strong> that maximize conversion. It automatically adjusts bidding amounts, target audiences, and even creative placement <i>without</i> human intervention.</p>",
+    "_ariaLevel": 0,
+    "_id": "69400419e2905e45549c8a08",
+    "_parentId": "69400409e2905e45549c8a07",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>The AI is trained on vast amounts of published content. It recognizes <strong>patterns</strong> in article structures, tone, and flow to generate detailed outlines or complete first drafts of blog posts, emails, or technical documentation based on a simple prompt.</p>",
+    "_ariaLevel": 0,
+    "_id": "6940043ce2905e45549c8a0a",
+    "_parentId": "6940042be2905e45549c8a09",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>The power of these use cases comes from AI's incredible <strong>Speed &amp; Scale</strong>, processing vast data instantly. However, this power comes with inherent limitations that demand careful human interaction:</p><ul><li><strong>Weakness: Lacks Context/Common Sense:</strong> AI focuses on <strong>patterns</strong> in the data, not real-world <i>meaning</i> or <i>causality</i>.</li><li><strong>Weakness: Prone to Hallucinations:</strong> Generative AI predicts the most likely next word, which often results in outputs that sound plausible but are <strong>factually incorrect or fabricated</strong>.</li><li><strong>Weakness: Data Dependency &amp; Bias:</strong> If the training data is biased, incomplete, or contains errors (<strong>Garbage In, Garbage Out / GIGO</strong>), the AI will replicate and amplify that bias.</li></ul>",
+    "_ariaLevel": 0,
+    "_id": "69400498e2905e45549c8a11",
+    "_parentId": "69400470e2905e45549c8a10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>AI is an assistant, not a replacement. Your value shifts from being the <i>doer</i> to being the <strong>critical editor and strategic validator.</strong> Always apply human context, nuance, and judgment to AI output.</p>",
+    "_ariaLevel": 0,
+    "_id": "694004c3e2905e45549c8a13",
+    "_parentId": "694004ace2905e45549c8a12",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "What is AI?",
+    "displayTitle": "What is AI?",
+    "body": "<p><meta></p><p style=\"line-height:1.38;margin-bottom:12pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Artificial Intelligence (AI) refers to computer systems designed to </strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>mimic human intelligence</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> to perform specific tasks. Think of AI as an advanced tool that can see patterns, make decisions, or create content based on the data it's been trained on.</strong></span></b></span></p><p><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Key Point:</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> AI is not magic, and it is not a sentient being. Today, we exclusively use </strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Narrow AI</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>, which means the system is only intelligent within a highly focused domain.</strong></span></b></span></p>",
+    "_ariaLevel": 0,
+    "_id": "6940054be2905e45549c8a17",
+    "_parentId": "6940053de2905e45549c8a16",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p><meta></p><h4 style=\"line-height:1.38;margin-bottom:6pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>The True Nature of Generative AI</strong></span></b></span></h4><p style=\"line-height:1.38;margin-bottom:6pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>When you interact with a system like ChatGPT, you are using a </strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Large Language Model (LLM)</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>. It has two simple, yet powerful, jobs:</strong></span></b></span></p><ol style=\"margin-bottom:0;margin-top:0;padding-inline-start:48px;\"><li style=\"background-color:transparent;color:#1f1f1f;font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;list-style-type:decimal;text-decoration:none;vertical-align:baseline;white-space:pre;\"><p style=\"line-height:1.38;margin-bottom:0pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Read and Understand Context:</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> It analyzes all the words you give it (the </strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>prompt</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>) to understand the topic, tone, and format you need.</strong></span></b></span></p></li><li style=\"background-color:transparent;color:#1f1f1f;font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;list-style-type:decimal;text-decoration:none;vertical-align:baseline;white-space:pre;\"><p style=\"line-height:1.38;margin-bottom:18pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Predict the Next Word:</strong></span><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> Based on the trillions of data patterns it learned during training, the LLM calculates the single most statistically probable word that should come next, then the next word, and so on.</strong></span></b></span></p></li></ol><p style=\"line-height:1.38;margin-bottom:12pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>LLMs are powerful text-based probability calculators.</strong></span></b></span></p><h4 style=\"line-height:1.38;margin-bottom:6pt;margin-top:0pt;\"><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Analogy 1: The World's Best Autocomplete</strong></span></b></span></h4><p><span style=\"background-color:transparent;color:#1f1f1f;\"><b style=\"font-weight:normal;\"><i><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong>Imagine the autocomplete feature on your phone, but powered by nearly the entire internet.</strong></span></i><span style=\"font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\"><strong> If you type, \"The lawyer argued that the contract was...\" the LLM makes the most informed, statistical guess for the next word (e.g., \"invalid\" or \"breached\") across vast, nuanced topics.</strong></span></b></span></p>",
+    "_ariaLevel": 0,
+    "_id": "694137de42cf7909dc8c2790",
+    "_parentId": "6941374a42cf7909dc8c278f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  }
+]
