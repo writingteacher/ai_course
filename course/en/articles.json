@@ -1,6 +1,6 @@
 [
   {
-    "title": "AI Foundations",
+    "title": "New Article Title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -12,8 +12,25 @@
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_ariaLevel": 0,
-    "_id": "69400033e2905e45549c89f7",
-    "_parentId": "69400033e2905e45549c89f6",
+    "_id": "694292d8c9430b433c292543",
+    "_parentId": "694292d8c9430b433c292542",
+    "_type": "article"
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_ariaLevel": 0,
+    "_id": "694297f4c9430b433c292555",
+    "_parentId": "694297f4c9430b433c292554",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -46,9 +63,9 @@
     }
   },
   {
-    "title": "Intro",
+    "title": "Evidence collected",
     "displayTitle": "",
-    "body": "",
+    "body": "<p>Review the clues below. Each one describes how the AI behaves.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -58,8 +75,8 @@
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_ariaLevel": 0,
-    "_id": "6940053de2905e45549c8a15",
-    "_parentId": "69400010e2905e45549c89f2",
+    "_id": "6942931ec9430b433c292546",
+    "_parentId": "694292d8c9430b433c292542",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -92,9 +109,9 @@
     }
   },
   {
-    "title": "Large Language Models (LLMs) Demystified",
-    "displayTitle": "Large Language Models (LLMs) Demystified",
-    "body": "",
+    "title": "What the clues reveal",
+    "displayTitle": "",
+    "body": "<p>AI systems like this do not check facts or verify truth.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -104,8 +121,8 @@
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_ariaLevel": 0,
-    "_id": "6941374a42cf7909dc8c278e",
-    "_parentId": "6941374a42cf7909dc8c278d",
+    "_id": "694293b2c9430b433c292549",
+    "_parentId": "694292d8c9430b433c292542",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -138,7 +155,7 @@
     }
   },
   {
-    "title": "Common Use Cases Today",
+    "title": "Key Insight",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -150,8 +167,8 @@
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_ariaLevel": 0,
-    "_id": "694002b6e2905e45549c89ff",
-    "_parentId": "69400033e2905e45549c89f6",
+    "_id": "694293fec9430b433c29254c",
+    "_parentId": "694292d8c9430b433c292542",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -184,7 +201,7 @@
     }
   },
   {
-    "title": "AI in Action: Strengths and Weaknesses (Wrap-Up)",
+    "title": "The locked door",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -196,8 +213,8 @@
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_ariaLevel": 0,
-    "_id": "69400470e2905e45549c8a0f",
-    "_parentId": "69400033e2905e45549c89f6",
+    "_id": "69429427c9430b433c29254f",
+    "_parentId": "694292d8c9430b433c292542",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
