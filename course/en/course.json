@@ -1,13 +1,13 @@
 {
   "title": "AI Mystery",
   "displayTitle": "AI Mystery",
-  "body": "",
+  "body": "<p>You’ve entered the AI Lab. To escape, you must prove your understanding of Artificial Intelligence.&nbsp;</p><p>&nbsp;</p><p>Each room holds a puzzle. Solve them all, and you’ll unlock the final door.</p>",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
   "_isA11yCompletionDescriptionEnabled": true,
-  "_latestTrackingId": 9,
+  "_latestTrackingId": 24,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -38,10 +38,16 @@
   "_lockType": "",
   "_id": "course",
   "_start": {
-    "_isEnabled": false,
-    "_startIds": [],
-    "_force": false,
-    "_isMenuDisabled": false
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "694297f4c9430b433c292554",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": true,
+    "_isMenuDisabled": true
   },
   "_globals": {
     "_accessibility": {
@@ -199,7 +205,7 @@
     "_isEnabled": true
   },
   "_navigation": {
-    "_isDefaultNavigationDisabled": false,
+    "_isDefaultNavigationDisabled": true,
     "_navigationAlignment": "top",
     "_isBottomOnTouchDevices": false,
     "_showLabel": false,
@@ -213,7 +219,7 @@
       "alt": ""
     },
     "_backgroundImage": {
-      "_xlarge": "",
+      "_xlarge": "course/en/assets/0eae93688d6368787ddf03dfb673da166473a419.png",
       "_large": "",
       "_medium": "",
       "_small": ""
