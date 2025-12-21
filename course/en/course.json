@@ -7,7 +7,7 @@
   "instruction": "",
   "_htmlClasses": "",
   "_isA11yCompletionDescriptionEnabled": true,
-  "_latestTrackingId": 24,
+  "_latestTrackingId": 44,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -106,6 +106,20 @@
             "_navOrder": 0
           }
         ]
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "List of page sections and completion status. Select incomplete sections to jump directly to the content.",
+        "pageLevelProgressIndicatorBar": "Page progress. {{percentageComplete}}%. Open page sections.",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "optionalContent": "Optional content",
+        "_navOrder": 90,
+        "_navTooltip": null,
+        "_showLabel": true,
+        "navLabel": "Page progress",
+        "_drawerPosition": "auto"
+      },
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
       }
     },
     "_components": {
@@ -213,6 +227,15 @@
     "_labelPosition": "auto"
   },
   "_type": "course",
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "title": "",
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true,
+    "_showAtCourseLevel": false,
+    "_useCourseProgressInNavigationButton": false
+  },
   "_boxMenu": {
     "_graphic": {
       "_src": "",

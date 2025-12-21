@@ -21,6 +21,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -51,6 +55,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -137,6 +145,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -168,6 +180,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -198,6 +214,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -312,6 +332,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -342,6 +366,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -374,6 +402,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -404,6 +436,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -447,6 +483,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -488,6 +528,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -531,6 +575,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -561,6 +609,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -604,6 +656,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -634,6 +690,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -666,6 +726,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -696,6 +760,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -739,6 +807,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -780,6 +852,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -823,6 +899,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -853,6 +933,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -885,6 +969,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -905,7 +993,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "By the end",
     "displayTitle": "By the end",
-    "body": "<p>By the end, AI should feel less mysterious and more predictable. You should be able to explain what an AI agent is and why it behaves the way it does.</p><p>When you are ready, enter the first room.</p>",
+    "body": "<h3><strong>AI Learns Patterns from Data</strong></h3><p>&nbsp;</p><p><span>AI is not magic. It works by finding patterns in large amounts of data.</span></p><p><span>Traditional software follows fixed rules: a calculator always adds numbers the same way.</span></p><p><span>AI adapts. Here is an example. Netflix recommends shows because it has learned what people with similar habits enjoy.</span></p><p>&nbsp;</p><p><span>Think of AI as a student who studies thousands of examples. It doesn’t invent knowledge. It learns patterns.</span></p>",
     "_ariaLevel": 0,
     "_id": "6947ab5b1139d85758b65aec",
     "_parentId": "6947ab5b1139d85758b65ae6",
@@ -915,6 +1003,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -947,6 +1039,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -963,48 +1059,6 @@
       "attribution": "",
       "_url": "https://writingteacher.github.io/ai_course/#/id/694292d8c9430b433c292542",
       "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_ariaLevel": 0,
-    "_id": "6947ab5b1139d85758b65af0",
-    "_parentId": "6947ab5b1139d85758b65ae8",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/0eae93688d6368787ddf03dfb673da166473a419.png",
-      "small": "course/en/assets/0eae93688d6368787ddf03dfb673da166473a419.png",
-      "attribution": "",
-      "_url": "",
-      "_target": "_blank"
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -1031,6 +1085,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -1042,8 +1100,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/a3418bbe2b51a2a1b297aec086bfd2f9c8de9c6d.png",
-      "small": "course/en/assets/a3418bbe2b51a2a1b297aec086bfd2f9c8de9c6d.png",
+      "large": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
+      "small": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
       "attribution": "",
       "_url": "",
       "_target": "_blank"
@@ -1062,7 +1120,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "New Component Title",
-    "body": "<p>Greetings, organic specimen. I am Dr. Al-Gore-Rithm.&nbsp;</p><p>You have entered my lab not to learn 'about' AI, but to understand how we are rewriting the code of existence. Follow my logic, or prepare to be ... deprecated.</p>",
+    "body": "<p>I am the Librarian. I will guide you through this Lab. In this room, your task is simple: learn what AI truly is, and prove you can tell it apart from ordinary software.&nbsp;</p><p>&nbsp;</p><p>Only then will the door unlock.</p>",
     "_ariaLevel": 0,
     "_id": "6947ab5b1139d85758b65af6",
     "_parentId": "6947ab5b1139d85758b65ae9",
@@ -1073,6 +1131,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_vanilla": {
       "_textAlignment": {
         "_title": "",
@@ -1081,5 +1143,1011 @@
       }
     },
     "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Back button",
+    "displayTitle": "Back button",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947ae941139d85758b65af9",
+    "_parentId": "6947ad721139d85758b65af8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/98d4219baca522914a361841125240fa1388cf9d.png",
+      "small": "course/en/assets/98d4219baca522914a361841125240fa1388cf9d.png",
+      "attribution": "",
+      "_url": "https://writingteacher.github.io/ai_course/#/id/694297f4c9430b433c292554",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>You step into the first chamber of the AI Lab. The air hums with electricity, and the walls are lined with towering screens. Each one flickers to life, showing familiar apps: Netflix, Google Translate, a calculator, Photoshop.&nbsp;</p><p>&nbsp;</p><p>Suddenly, a glowing message scrolls across the walls.</p>",
+    "_ariaLevel": 0,
+    "_id": "6947b0c01139d85758b65b00",
+    "_parentId": "6947b0b11139d85758b65aff",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947b58c1139d85758b65b03",
+    "_parentId": "6947b1d11139d85758b65b01",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/2ad5cce9fcb95cddf4f56e8fc3486837f68a91ca.gif",
+      "small": "course/en/assets/2ad5cce9fcb95cddf4f56e8fc3486837f68a91ca.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p><span>This is the beginning of your journey. In this room, you will learn the foundation of AI: that it is built on patterns in data, not magic. You will discover how to tell the difference between ordinary software and AI-powered systems. You will also see that while AI can be powerful, it can be wrong, and unlike humans, it never admits mistakes. By the time you leave this room, you will be able to recognize everyday examples of AI and explain how they differ from ordinary programs.</span></p><p>&nbsp;</p><p><span>In the corner, you notice an old woman sitting quietly, surrounded by stacks of glowing books. Curious, you walk toward her. She looks up with a knowing smile.</span></p>",
+    "_ariaLevel": 0,
+    "_id": "6947b6411139d85758b65b08",
+    "_parentId": "6947b6001139d85758b65b07",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<h3><strong>AI Can Be Wrong</strong></h3><h3>&nbsp;</h3><p><span>AI doesn’t “understand” the world. It only predicts what is likely based on past data. If the data is incomplete or biased, the prediction can be wrong. Unlike humans, AI never admits mistakes. It always produces an answer, even if it’s nonsense.</span></p><p>&nbsp;</p><p><span>Remember, AI will always give you an answer, even if it’s wrong. That’s why your judgment matters.</span></p>",
+    "_ariaLevel": 0,
+    "_id": "6947bf511139d85758b65b0c",
+    "_parentId": "6947befe1139d85758b65b0b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<h3><strong>AI Is Everywhere</strong></h3><h3>&nbsp;</h3><p><span>AI hides in plain sight in everyday tools. Google Maps predicting traffic. Chatbots answering questions.</span></p><p><span>Translation apps predicting word choices. Recommendation systems suggesting music or videos.</span></p><p>&nbsp;</p><p><span>You’ve already seen AI today. It surrounds you, guiding your choices, often without you noticing.</span></p>",
+    "_ariaLevel": 0,
+    "_id": "6947bf981139d85758b65b0e",
+    "_parentId": "6947bf801139d85758b65b0d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>A photo app brightens every image, even when it makes some look worse. What does this reveal about AI?</p>",
+    "_ariaLevel": 0,
+    "_id": "6947c1ba1139d85758b65b11",
+    "_parentId": "6947c14b1139d85758b65b0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "AI applies patterns, but sometimes those patterns don’t fit the situation.",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Correct.&nbsp;</p><p>&nbsp;</p><p>AI adapts by applying learned patterns, but it doesn’t understand context. That’s why it can brighten an image even when it makes it worse.”&nbsp;</p><p>&nbsp;</p><p>Clue to Room 2: You’ve unlocked the code. To open the next door, remember this phrase: “It will guide you in Room 2.”</p>",
+        "_score": 0
+      },
+      {
+        "text": "AI always improves results.",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Not quite.&nbsp;</p><p>&nbsp;</p><p>AI doesn’t guarantee improvement. It simply applies patterns it has learned, whether they fit or not.&nbsp;</p><p>&nbsp;</p><p>Believing it always improves results misses the principle of fallibility.</p>",
+        "_score": 0
+      },
+      {
+        "text": "AI refuses to process difficult images.",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Not quite.&nbsp;</p><p>&nbsp;</p><p>AI doesn’t refuse tasks. It always produces an output, even if it’s wrong. That’s why you sometimes see results that don’t make sense.</p>",
+        "_score": 0
+      }
+    ],
+    "_attempts": 99,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947c8031139d85758b65b1b",
+    "_parentId": "6947c16c1139d85758b65b10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
+      "small": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
+      "attribution": "",
+      "_url": "https://writingteacher.github.io/ai_course/#/id/6947c8311139d85758b65b1f",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>You’ve stepped into the AI Lab with a mad scientist. The doors have sealed shut. To escape, you must prove your understanding of Artificial Intelligence. Each room contains a puzzle.&nbsp;</p><p>&nbsp;</p><p>Solve them all, and you’ll unlock the final door.</p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b2f",
+    "_parentId": "6947c8311139d85758b65b22",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Inside the rooms",
+    "displayTitle": "Inside the rooms",
+    "body": "<p>Inside every room, you will review clues, connect patterns, and test your understanding before moving forward. There is no coding, no math, and no trick questions. Progress depends on reasoning, not memorization.</p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b30",
+    "_parentId": "6947c8311139d85758b65b23",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "By the end",
+    "displayTitle": "By the end",
+    "body": "<h3><strong>AI Learns Patterns from Data</strong></h3><p>&nbsp;</p><p><span>AI is not magic. It works by finding patterns in large amounts of data.</span></p><p><span>Traditional software follows fixed rules: a calculator always adds numbers the same way.</span></p><p><span>AI adapts. Here is an example. Netflix recommends shows because it has learned what people with similar habits enjoy.</span></p><p>&nbsp;</p><p><span>Think of AI as a student who studies thousands of examples. It doesn’t invent knowledge. It learns patterns.</span></p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b31",
+    "_parentId": "6947c8311139d85758b65b24",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Enter Room 1",
+    "displayTitle": "Enter Room 1",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b32",
+    "_parentId": "6947c8311139d85758b65b25",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click the door handle to enter Room 1",
+    "_graphic": {
+      "alt": "Room 1 door",
+      "longdescription": "",
+      "large": "course/en/assets/84f4e55e4f1008dbc12163b7cee6b71d8a0b0698.png",
+      "small": "course/en/assets/84f4e55e4f1008dbc12163b7cee6b71d8a0b0698.png",
+      "attribution": "",
+      "_url": "https://writingteacher.github.io/ai_course/#/id/694292d8c9430b433c292542",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Mad scientist",
+    "displayTitle": "Mad scientist",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b35",
+    "_parentId": "6947c8311139d85758b65b26",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
+      "small": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>I am the Librarian. I will guide you through this Lab. In this room, your task is simple: learn what AI truly is, and prove you can tell it apart from ordinary software.&nbsp;</p><p>&nbsp;</p><p>Only then will the door unlock.</p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b38",
+    "_parentId": "6947c8311139d85758b65b26",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Back button",
+    "displayTitle": "Back button",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b39",
+    "_parentId": "6947c8311139d85758b65b27",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/98d4219baca522914a361841125240fa1388cf9d.png",
+      "small": "course/en/assets/98d4219baca522914a361841125240fa1388cf9d.png",
+      "attribution": "",
+      "_url": "https://writingteacher.github.io/ai_course/#/id/694297f4c9430b433c292554",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>You step into the first chamber of the AI Lab. The air hums with electricity, and the walls are lined with towering screens. Each one flickers to life, showing familiar apps: Netflix, Google Translate, a calculator, Photoshop.&nbsp;</p><p>&nbsp;</p><p>Suddenly, a glowing message scrolls across the walls.</p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b3c",
+    "_parentId": "6947c8311139d85758b65b28",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b3d",
+    "_parentId": "6947c8311139d85758b65b29",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/2ad5cce9fcb95cddf4f56e8fc3486837f68a91ca.gif",
+      "small": "course/en/assets/2ad5cce9fcb95cddf4f56e8fc3486837f68a91ca.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p><span>This is the beginning of your journey. In this room, you will learn the foundation of AI: that it is built on patterns in data, not magic. You will discover how to tell the difference between ordinary software and AI-powered systems. You will also see that while AI can be powerful, it can be wrong, and unlike humans, it never admits mistakes. By the time you leave this room, you will be able to recognize everyday examples of AI and explain how they differ from ordinary programs.</span></p><p>&nbsp;</p><p><span>In the corner, you notice an old woman sitting quietly, surrounded by stacks of glowing books. Curious, you walk toward her. She looks up with a knowing smile.</span></p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b40",
+    "_parentId": "6947c8311139d85758b65b2a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<h3><strong>AI Can Be Wrong</strong></h3><h3>&nbsp;</h3><p><span>AI doesn’t “understand” the world. It only predicts what is likely based on past data. If the data is incomplete or biased, the prediction can be wrong. Unlike humans, AI never admits mistakes. It always produces an answer, even if it’s nonsense.</span></p><p>&nbsp;</p><p><span>Remember, AI will always give you an answer, even if it’s wrong. That’s why your judgment matters.</span></p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b41",
+    "_parentId": "6947c8311139d85758b65b2b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<h3><strong>AI Is Everywhere</strong></h3><h3>&nbsp;</h3><p><span>AI hides in plain sight in everyday tools. Google Maps predicting traffic. Chatbots answering questions.</span></p><p><span>Translation apps predicting word choices. Recommendation systems suggesting music or videos.</span></p><p>&nbsp;</p><p><span>You’ve already seen AI today. It surrounds you, guiding your choices, often without you noticing.</span></p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b42",
+    "_parentId": "6947c8311139d85758b65b2c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>A photo app brightens every image, even when it makes some look worse. What does this reveal about AI?</p>",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b43",
+    "_parentId": "6947c8311139d85758b65b2d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "AI applies patterns, but sometimes those patterns don’t fit the situation.",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Correct.&nbsp;</p><p>&nbsp;</p><p>AI adapts by applying learned patterns, but it doesn’t understand context. That’s why it can brighten an image even when it makes it worse.”&nbsp;</p><p>&nbsp;</p><p>Clue to Room 2: You’ve unlocked the code. To open the next door, remember this phrase: “It will guide you in Room 2.”</p>",
+        "_score": 0
+      },
+      {
+        "text": "AI always improves results.",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Not quite.&nbsp;</p><p>&nbsp;</p><p>AI doesn’t guarantee improvement. It simply applies patterns it has learned, whether they fit or not.&nbsp;</p><p>&nbsp;</p><p>Believing it always improves results misses the principle of fallibility.</p>",
+        "_score": 0
+      },
+      {
+        "text": "AI refuses to process difficult images.",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Not quite.&nbsp;</p><p>&nbsp;</p><p>AI doesn’t refuse tasks. It always produces an output, even if it’s wrong. That’s why you sometimes see results that don’t make sense.</p>",
+        "_score": 0
+      }
+    ],
+    "_attempts": 99,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6947c8311139d85758b65b44",
+    "_parentId": "6947c8311139d85758b65b2e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
+      "small": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
+      "attribution": "",
+      "_url": "https://writingteacher.github.io/ai_course/#/id/694297f4c9430b433c292554",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]
