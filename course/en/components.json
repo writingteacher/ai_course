@@ -727,111 +727,6 @@
     "instruction": ""
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>You’ve stepped into the AI Lab with a mad scientist. The doors have sealed shut. To escape, you must prove your understanding of Artificial Intelligence. Each room contains a puzzle.&nbsp;</p><p>&nbsp;</p><p>Solve them all, and you’ll unlock the final door.</p>",
-    "_ariaLevel": 0,
-    "_id": "6947ab5b1139d85758b65aea",
-    "_parentId": "6947ab5b1139d85758b65ae4",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Inside the rooms",
-    "displayTitle": "Inside the rooms",
-    "body": "<p>Inside every room, you will review clues, connect patterns, and test your understanding before moving forward. There is no coding, no math, and no trick questions. Progress depends on reasoning, not memorization.</p>",
-    "_ariaLevel": 0,
-    "_id": "6947ab5b1139d85758b65aeb",
-    "_parentId": "6947ab5b1139d85758b65ae5",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "By the end",
-    "displayTitle": "By the end",
-    "body": "<h3><strong>AI Learns Patterns from Data</strong></h3><p>&nbsp;</p><p><span>AI is not magic. It works by finding patterns in large amounts of data.</span></p><p><span>Traditional software follows fixed rules: a calculator always adds numbers the same way.</span></p><p><span>AI adapts. Here is an example. Netflix recommends shows because it has learned what people with similar habits enjoy.</span></p><p>&nbsp;</p><p><span>Think of AI as a student who studies thousands of examples. It doesn’t invent knowledge. It learns patterns.</span></p>",
-    "_ariaLevel": 0,
-    "_id": "6947ab5b1139d85758b65aec",
-    "_parentId": "6947ab5b1139d85758b65ae6",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -886,8 +781,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Mad scientist",
-    "displayTitle": "Mad scientist",
+    "title": "Greeting",
+    "displayTitle": "Greeting",
     "body": "",
     "_ariaLevel": 0,
     "_id": "6947ab5b1139d85758b65af3",
@@ -914,8 +809,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
-      "small": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
+      "large": "course/en/assets/e6e0ed01ee3f6d853b139f4b473e3411e824da63.png",
+      "small": "course/en/assets/e6e0ed01ee3f6d853b139f4b473e3411e824da63.png",
       "attribution": "",
       "_url": "",
       "_target": "_blank"
@@ -934,7 +829,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "New Component Title",
-    "body": "<p>I am the Librarian. I will guide you through this Lab. In this room, your task is simple: learn what AI truly is, and prove you can tell it apart from ordinary software.&nbsp;</p><p>&nbsp;</p><p>Only then will the door unlock.</p>",
+    "body": "<p>You have arrived. But to learn, you must first unlearn. You look at a computer and you see a servant that follows orders. Is that right?\"</p>",
     "_ariaLevel": 0,
     "_id": "6947ab5b1139d85758b65af6",
     "_parentId": "6947ab5b1139d85758b65ae9",
@@ -1003,192 +898,6 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p>You step into the first chamber of the AI Lab. The air hums with electricity, and the walls are lined with towering screens. Each one flickers to life, showing familiar apps: Netflix, Google Translate, a calculator, Photoshop.&nbsp;</p><p>&nbsp;</p><p>Suddenly, a glowing message scrolls across the walls.</p>",
-    "_ariaLevel": 0,
-    "_id": "6947b0c01139d85758b65b00",
-    "_parentId": "6947b0b11139d85758b65aff",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_ariaLevel": 0,
-    "_id": "6947b58c1139d85758b65b03",
-    "_parentId": "6947b1d11139d85758b65b01",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/2ad5cce9fcb95cddf4f56e8fc3486837f68a91ca.gif",
-      "small": "course/en/assets/2ad5cce9fcb95cddf4f56e8fc3486837f68a91ca.gif",
-      "attribution": "",
-      "_url": "",
-      "_target": "_blank"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p><span>This is the beginning of your journey. In this room, you will learn the foundation of AI: that it is built on patterns in data, not magic. You will discover how to tell the difference between ordinary software and AI-powered systems. You will also see that while AI can be powerful, it can be wrong, and unlike humans, it never admits mistakes. By the time you leave this room, you will be able to recognize everyday examples of AI and explain how they differ from ordinary programs.</span></p><p>&nbsp;</p><p><span>In the corner, you notice an old woman sitting quietly, surrounded by stacks of glowing books. Curious, you walk toward her. She looks up with a knowing smile.</span></p>",
-    "_ariaLevel": 0,
-    "_id": "6947b6411139d85758b65b08",
-    "_parentId": "6947b6001139d85758b65b07",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<h3><strong>AI Can Be Wrong</strong></h3><h3>&nbsp;</h3><p><span>AI doesn’t “understand” the world. It only predicts what is likely based on past data. If the data is incomplete or biased, the prediction can be wrong. Unlike humans, AI never admits mistakes. It always produces an answer, even if it’s nonsense.</span></p><p>&nbsp;</p><p><span>Remember, AI will always give you an answer, even if it’s wrong. That’s why your judgment matters.</span></p>",
-    "_ariaLevel": 0,
-    "_id": "6947bf511139d85758b65b0c",
-    "_parentId": "6947befe1139d85758b65b0b",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<h3><strong>AI Is Everywhere</strong></h3><h3>&nbsp;</h3><p><span>AI hides in plain sight in everyday tools. Google Maps predicting traffic. Chatbots answering questions.</span></p><p><span>Translation apps predicting word choices. Recommendation systems suggesting music or videos.</span></p><p>&nbsp;</p><p><span>You’ve already seen AI today. It surrounds you, guiding your choices, often without you noticing.</span></p>",
-    "_ariaLevel": 0,
-    "_id": "6947bf981139d85758b65b0e",
-    "_parentId": "6947bf801139d85758b65b0d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
   },
   {
     "_component": "mcq",
@@ -2167,5 +1876,526 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>The Librarian is present, the room feels ancient and full of secrets, challenging the user's initial assumptions.</p>",
+    "_ariaLevel": 0,
+    "_id": "69493355949e992a14645764",
+    "_parentId": "6947b1d11139d85758b65b01",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "computer",
+    "displayTitle": "computer",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69493495949e992a14645767",
+    "_parentId": "69493495949e992a14645766",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/8ae5bf69ae5772d9da1dce71dc858b5445ab8ab4.png",
+      "small": "course/en/assets/8ae5bf69ae5772d9da1dce71dc858b5445ab8ab4.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>Yes. I thought we give it rules and it obeys.</p>",
+    "_ariaLevel": 0,
+    "_id": "69493495949e992a1464576a",
+    "_parentId": "69493495949e992a14645766",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "rope",
+    "displayTitle": "rope",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69493787949e992a14645770",
+    "_parentId": "69493787949e992a1464576f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a4c5c97a70b210ddcdbb88ecb86c55b40a3ea551.png",
+      "small": "course/en/assets/a4c5c97a70b210ddcdbb88ecb86c55b40a3ea551.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>That is the old way of thinking and seeing. We call it Ordinary Software. It is like a blind man following a rope. He can only go where the rope goes. If the rope breaks, he is lost.</p>",
+    "_ariaLevel": 0,
+    "_id": "69493787949e992a14645773",
+    "_parentId": "69493787949e992a1464576f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "student answer",
+    "displayTitle": "student answer",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6949380b949e992a14645776",
+    "_parentId": "6949380b949e992a14645775",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/96003909e3b56124f37d3aa2e7ac6423328f6f0a.png",
+      "small": "course/en/assets/96003909e3b56124f37d3aa2e7ac6423328f6f0a.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>And AI? Is it not like a rope?</p>",
+    "_ariaLevel": 0,
+    "_id": "6949380b949e992a14645779",
+    "_parentId": "6949380b949e992a14645775",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "talking",
+    "displayTitle": "talking",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69493838949e992a1464577c",
+    "_parentId": "69493838949e992a1464577b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/c1e447e737c9e303bec177195458614e776398ac.png",
+      "small": "course/en/assets/c1e447e737c9e303bec177195458614e776398ac.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>No. AI is the Student. We do not give it a rope. We give it Eyes. We show it thousands of examples—we call this Data. We let the Student look until it sees patterns.</p>",
+    "_ariaLevel": 0,
+    "_id": "69493838949e992a1464577f",
+    "_parentId": "69493838949e992a1464577b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "student conclude",
+    "displayTitle": "student conclude",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "694938a1949e992a14645782",
+    "_parentId": "694938a1949e992a14645781",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/96003909e3b56124f37d3aa2e7ac6423328f6f0a.png",
+      "small": "course/en/assets/96003909e3b56124f37d3aa2e7ac6423328f6f0a.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>So Ordinary Software is a machine following a rope, but AI is a student who has learned to see. I got it. That seems easy.</p>",
+    "_ariaLevel": 0,
+    "_id": "694938a1949e992a14645785",
+    "_parentId": "694938a1949e992a14645781",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "teach riddle",
+    "displayTitle": "teach riddle",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69493e75949e992a1464579a",
+    "_parentId": "69493e75949e992a14645799",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/8b4152cf5d6558d24626fc743fd2fa60b737b618.png",
+      "small": "course/en/assets/8b4152cf5d6558d24626fc743fd2fa60b737b618.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "riddle",
+    "displayTitle": "riddle",
+    "body": "<p>Well let's see how much you have learn in the first lesson.&nbsp;</p><p>&nbsp;</p><p>I have two students. I want them to tell me if it will rain tomorrow.</p><ul><li>Student A reads a dusty book of weather laws written 100 years ago. The book says: 'If the clouds are grey, it will rain.'</li><li>Student B sits by the window for three years. It watches the wind, the smell of the air, and the way the birds fly. It says: 'The birds are low; the rain comes in two hours.'\"</li></ul><p>&nbsp;</p><p>Now, tell me: Which one is the true AI, and, be careful, what happens if the world changes? If the birds fly away forever, which student will be lost, and which one will learn a new way to see?</p>",
+    "_ariaLevel": 0,
+    "_id": "69493e75949e992a1464579d",
+    "_parentId": "69493e75949e992a14645799",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]
