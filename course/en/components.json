@@ -404,87 +404,6 @@
   },
   {
     "_component": "graphic",
-    "_classes": "hide-component-title",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Mad scientist",
-    "displayTitle": "Mad scientist",
-    "body": "",
-    "_ariaLevel": 0,
-    "_id": "69479b631139d85758b65abf",
-    "_parentId": "69479b371139d85758b65abe",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
-      "small": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
-      "attribution": "",
-      "_url": "",
-      "_target": "_blank"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "hide-component-title",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p>Welcome to the Lab. In these rooms, you will learn what Artificial Intelligence really is and how it differs from ordinary software.</p><p>&nbsp;</p><p>You will discover what AI can do, like learning from data and finding patterns. You will see real examples of AI used in everyday life.</p><p>&nbsp;</p><p>You will also learn how an AI system works, from the moment it receives information to the moment it gives an answer. And along the way, you will use simple AI terms, such as model, dataset, and training.</p><p>If you can understand these ideas, the doors ahead will open for you.</p>",
-    "_ariaLevel": 0,
-    "_id": "69479bc41139d85758b65ac3",
-    "_parentId": "69479b371139d85758b65abe",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
     "_classes": "full-width-no-title",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2046,6 +1965,83 @@
     "_defaultScrollPercent": 0
   },
   {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Step inside",
+    "displayTitle": "Step inside",
+    "body": "<p>You’re entering a space designed for curiosity and discovery. While the world talks about Artificial Intelligence as if it’s magic, here, we pull back the curtain. In these rooms, you won’t just be a spectator. You’ll be an explorer. &nbsp;You’ll learn to see the invisible threads of logic that separate modern AI from the \"ordinary\" software of the past.&nbsp;</p><p>&nbsp;</p><p>By the time you reach the final door, you’ll understand the mechanics of AI and how it thinks.</p>",
+    "_ariaLevel": 0,
+    "_id": "69491854949e992a1464571a",
+    "_parentId": "6949184f949e992a14645719",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Meet the librarian",
+    "displayTitle": "Meet the librarian",
+    "body": "<p>I'll be your guide. Inside the Lab, you'll unlock the following skills:<br>&nbsp;</p><ul><li>Decode the mystery: Learn the key differences between static code and machines that learn.</li><li>Spot the intelligence: Identify the invisible AI power in the tools you use every day.</li><li>Peek under the hood: Master the step-by-step process of how AI processes information, from input to answer.</li><li>Speak the language: Graduate with a working vocabulary of industry terms like dataset, model, and training.</li></ul>",
+    "_ariaLevel": 0,
+    "_id": "6949189a949e992a1464571b",
+    "_parentId": "69479b371139d85758b65abe",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": []
+  },
+  {
     "_component": "graphic",
     "_classes": "hide-component-title",
     "_isOptional": false,
@@ -2054,14 +2050,14 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Mad scientist",
-    "displayTitle": "Mad scientist",
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
     "body": "",
     "_ariaLevel": 0,
-    "_id": "69488b114e26074994bc89ff",
-    "_parentId": "69488b114e26074994bc89fe",
+    "_id": "694918c7949e992a1464571c",
+    "_parentId": "69479b371139d85758b65abe",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2082,8 +2078,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
-      "small": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
+      "large": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
+      "small": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
       "attribution": "",
       "_url": "",
       "_target": "_blank"
@@ -2100,12 +2096,12 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p>Each room on this path holds one idea about AI. When you learn the idea and show you understand it, the next door will open. Step by step, your knowledge will grow.</p><p>&nbsp;</p><p>I will guide you through the rooms and help you connect what you learn.</p><p>&nbsp;</p><p>When you reach the final room, you will be able to explain what AI is, how it works, and how to recognize it in the real world. That is how you will truly complete your journey.</p>",
+    "title": "The path ahead",
+    "displayTitle": "The path ahead",
+    "body": "<p>This isn't a traditional classroom. It’s a sequence of discovery. Each room you enter houses a single idea.</p><p><strong>Unlocking the Doors</strong></p><p>To move forward, you must demonstrate your mastery of the room’s secret. Only when the logic is clear will the next door swing open.</p><p>&nbsp;</p><p><strong>Building the Blueprint</strong></p><p>With every step, your knowledge will stack. You aren't just memorizing facts; you are building a mental blueprint of how the digital world is changing.</p><p>&nbsp;</p><p>When you reach the final hall, the mystery will be gone. You'll possess the power to explain what AI is, dissect how it functions, and spot its influence in the world around you.</p><p>&nbsp;</p><p>Your journey begins at the first door. Are you ready to enter?</p>",
     "_ariaLevel": 0,
-    "_id": "69488b114e26074994bc8a02",
-    "_parentId": "69488b114e26074994bc89fe",
+    "_id": "69491a09949e992a14645720",
+    "_parentId": "694919f6949e992a1464571f",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2135,14 +2131,14 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Mad scientist",
-    "displayTitle": "Mad scientist",
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
     "body": "",
     "_ariaLevel": 0,
-    "_id": "69488df24e26074994bc8a07",
-    "_parentId": "69488df24e26074994bc8a06",
+    "_id": "6949233a949e992a14645760",
+    "_parentId": "694919f6949e992a1464571f",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2163,48 +2159,13 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/47a0b9544b494e466fbd970cbdfba5d3a6f9ae85.png",
-      "small": "course/en/assets/47a0b9544b494e466fbd970cbdfba5d3a6f9ae85.png",
+      "large": "course/en/assets/c8e37d04f3854371dfdd9ae321f15b70f965ba53.png",
+      "small": "course/en/assets/c8e37d04f3854371dfdd9ae321f15b70f965ba53.png",
       "attribution": "",
       "_url": "",
       "_target": "_blank"
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "hide-component-title",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p>Long ago, people imagined Artificial Intelligence as glowing machines and metal minds. The world was filled with big promises and bold headlines.</p><p>&nbsp;</p><p>In this course, we will uncover what AI truly is today, and just as importantly, what it is not. Many tools are called AI, but only a few truly earn that name. As you move through these rooms, you will learn to see past the posters and myths, and understand the real thing.</p>",
-    "_ariaLevel": 0,
-    "_id": "69488df24e26074994bc8a0a",
-    "_parentId": "69488df24e26074994bc8a06",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
   }
 ]

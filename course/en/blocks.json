@@ -237,10 +237,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_trickle": {
       "_isEnabled": false,
       "_isInherited": false,
@@ -272,6 +268,10 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -660,105 +660,11 @@
     }
   },
   {
-    "title": "Meet the librarian",
-    "displayTitle": "Meet the librarian",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 11,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "69479b371139d85758b65abe",
-    "_parentId": "694297f4c9430b433c292555",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "disabledText": "",
-        "disabledAriaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
     "title": "About the course",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 12,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -852,7 +758,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 13,
+    "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -946,7 +852,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 14,
+    "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1036,11 +942,199 @@
     }
   },
   {
+    "title": "Intro",
+    "displayTitle": "Intro",
+    "body": "",
+    "_classes": "hide-block-title",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_ariaLevel": 0,
+    "_id": "6949184f949e992a14645719",
+    "_parentId": "694297f4c9430b433c292555",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "hide-my-title",
+      "_percentInviewVertical": 50
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "Meet the librarian",
+    "displayTitle": "Meet the librarian",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_ariaLevel": 0,
+    "_id": "69479b371139d85758b65abe",
+    "_parentId": "694297f4c9430b433c292555",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
     "title": "message on wall",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 15,
+    "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1134,7 +1228,7 @@
     "displayTitle": "Meet the mad doctor",
     "body": "",
     "_classes": "",
-    "_trackingId": 16,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1186,100 +1280,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "Unpack the myths",
-    "displayTitle": "Unpack the myths",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 17,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "69488df24e26074994bc8a06",
-    "_parentId": "694297f4c9430b433c292555",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "disabledText": "",
-        "disabledAriaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -1600,11 +1600,105 @@
     }
   },
   {
+    "title": "The Path Ahead",
+    "displayTitle": "The Path Ahead",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_ariaLevel": 0,
+    "_id": "694919f6949e992a1464571f",
+    "_parentId": "694297f4c9430b433c292555",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
     "title": "About the course",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1656,100 +1750,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "Game play",
-    "displayTitle": "Game play",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 22,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "69488b114e26074994bc89fe",
-    "_parentId": "694297f4c9430b433c292555",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "disabledText": "",
-        "disabledAriaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -1882,10 +1882,10 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Room 1 door",
     "displayTitle": "",
-    "body": "",
-    "_classes": "",
+    "body": "<p>Tap the door handle to enter Room 1</p>",
+    "_classes": "hide-block-title",
     "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
@@ -1898,9 +1898,10 @@
     "_id": "6942a7fac9430b433c29256a",
     "_parentId": "694297f4c9430b433c292555",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_trickle": {
       "_isEnabled": false,
@@ -1933,6 +1934,45 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
     }
   },
   {
