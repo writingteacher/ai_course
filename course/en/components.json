@@ -311,111 +311,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>You’ve stepped into the AI Lab with a mad scientist. The doors have sealed shut. To escape, you must prove your understanding of Artificial Intelligence. Each room contains a puzzle.&nbsp;</p><p>&nbsp;</p><p>Solve them all, and you’ll unlock the final door.</p>",
-    "_ariaLevel": 0,
-    "_id": "69429999c9430b433c292559",
-    "_parentId": "694297f4c9430b433c292556",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Inside the rooms",
-    "displayTitle": "Inside the rooms",
-    "body": "<p>Inside every room, you will review clues, connect patterns, and test your understanding before moving forward. There is no coding, no math, and no trick questions. Progress depends on reasoning, not memorization.</p>",
-    "_ariaLevel": 0,
-    "_id": "69429ef8c9430b433c29255b",
-    "_parentId": "69429ef3c9430b433c29255a",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "By the end",
-    "displayTitle": "By the end",
-    "body": "<p>By the end, AI should feel less mysterious and more predictable. You should be able to explain what an AI agent is and why it behaves the way it does.</p><p>When you are ready, enter the first room.</p>",
-    "_ariaLevel": 0,
-    "_id": "69429f16c9430b433c29255d",
-    "_parentId": "69429f12c9430b433c29255c",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -544,8 +439,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/a3418bbe2b51a2a1b297aec086bfd2f9c8de9c6d.png",
-      "small": "course/en/assets/a3418bbe2b51a2a1b297aec086bfd2f9c8de9c6d.png",
+      "large": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
+      "small": "course/en/assets/72d17c3311f2fd3bd454328e76c6f436eee3f027.gif",
       "attribution": "",
       "_url": "",
       "_target": "_blank"
@@ -564,7 +459,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "New Component Title",
-    "body": "<p>Greetings, organic specimen. I am Dr. Al-Gore-Rithm.&nbsp;</p><p>You have entered my lab not to learn 'about' AI, but to understand how we are rewriting the code of existence. Follow my logic, or prepare to be ... deprecated.</p>",
+    "body": "<p>Welcome to the Lab. In these rooms, you will learn what Artificial Intelligence really is and how it differs from ordinary software.</p><p>&nbsp;</p><p>You will discover what AI can do, like learning from data and finding patterns. You will see real examples of AI used in everyday life.</p><p>&nbsp;</p><p>You will also learn how an AI system works, from the moment it receives information to the moment it gives an answer. And along the way, you will use simple AI terms, such as model, dataset, and training.</p><p>If you can understand these ideas, the doors ahead will open for you.</p>",
     "_ariaLevel": 0,
     "_id": "69479bc41139d85758b65ac3",
     "_parentId": "69479b371139d85758b65abe",
@@ -2149,5 +2044,167 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Mad scientist",
+    "displayTitle": "Mad scientist",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69488b114e26074994bc89ff",
+    "_parentId": "69488b114e26074994bc89fe",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
+      "small": "course/en/assets/f892c10fccfe63e3de53fc9570187f0251035a9e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>Each room on this path holds one idea about AI. When you learn the idea and show you understand it, the next door will open. Step by step, your knowledge will grow.</p><p>&nbsp;</p><p>I will guide you through the rooms and help you connect what you learn.</p><p>&nbsp;</p><p>When you reach the final room, you will be able to explain what AI is, how it works, and how to recognize it in the real world. That is how you will truly complete your journey.</p>",
+    "_ariaLevel": 0,
+    "_id": "69488b114e26074994bc8a02",
+    "_parentId": "69488b114e26074994bc89fe",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Mad scientist",
+    "displayTitle": "Mad scientist",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69488df24e26074994bc8a07",
+    "_parentId": "69488df24e26074994bc8a06",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/47a0b9544b494e466fbd970cbdfba5d3a6f9ae85.png",
+      "small": "course/en/assets/47a0b9544b494e466fbd970cbdfba5d3a6f9ae85.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "hide-component-title",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>Long ago, people imagined Artificial Intelligence as glowing machines and metal minds. The world was filled with big promises and bold headlines.</p><p>&nbsp;</p><p>In this course, we will uncover what AI truly is today, and just as importantly, what it is not. Many tools are called AI, but only a few truly earn that name. As you move through these rooms, you will learn to see past the posters and myths, and understand the real thing.</p>",
+    "_ariaLevel": 0,
+    "_id": "69488df24e26074994bc8a0a",
+    "_parentId": "69488df24e26074994bc8a06",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]

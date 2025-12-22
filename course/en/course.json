@@ -1,13 +1,13 @@
 {
   "title": "AI Mystery",
   "displayTitle": "AI Mystery",
-  "body": "<p>You’ve entered the AI Lab. To escape, you must prove your understanding of Artificial Intelligence.&nbsp;</p><p>&nbsp;</p><p>Each room holds a puzzle. Solve them all, and you’ll unlock the final door.</p>",
-  "subtitle": "",
+  "body": "",
+  "subtitle": "Explaining AI to none-technical people",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
   "_isA11yCompletionDescriptionEnabled": true,
-  "_latestTrackingId": 44,
+  "_latestTrackingId": 43,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -83,6 +83,23 @@
       "altFeedbackTitle": "Feedback"
     },
     "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "List of page sections and completion status. Select incomplete sections to jump directly to the content.",
+        "pageLevelProgressIndicatorBar": "Page progress. {{percentageComplete}}%. Open page sections.",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "optionalContent": "Optional content",
+        "_navOrder": "90",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Page progress"
+        },
+        "_showLabel": true,
+        "navLabel": "Page progress",
+        "_drawerPosition": "auto"
+      },
       "_drawer": {
         "_navOrder": 100,
         "_navTooltip": {
@@ -106,20 +123,6 @@
             "_navOrder": 0
           }
         ]
-      },
-      "_pageLevelProgress": {
-        "pageLevelProgress": "List of page sections and completion status. Select incomplete sections to jump directly to the content.",
-        "pageLevelProgressIndicatorBar": "Page progress. {{percentageComplete}}%. Open page sections.",
-        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
-        "optionalContent": "Optional content",
-        "_navOrder": 90,
-        "_navTooltip": null,
-        "_showLabel": true,
-        "navLabel": "Page progress",
-        "_drawerPosition": "auto"
-      },
-      "_trickle": {
-        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
       }
     },
     "_components": {
